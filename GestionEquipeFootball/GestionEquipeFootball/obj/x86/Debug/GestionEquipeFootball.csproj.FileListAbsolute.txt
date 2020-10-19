@@ -1,0 +1,6 @@
+/home/moi/Projects/GestionEquipeFootball/GestionEquipeFootball/bin/Debug/GestionEquipeFootball.exe
+/home/moi/Projects/GestionEquipeFootball/GestionEquipeFootball/bin/Debug/GestionEquipeFootball.pdb
+/home/moi/Projects/GestionEquipeFootball/GestionEquipeFootball/obj/x86/Debug/GestionEquipeFootball.csprojAssemblyReference.cache
+/home/moi/Projects/GestionEquipeFootball/GestionEquipeFootball/obj/x86/Debug/GestionEquipeFootball.csproj.CoreCompileInputs.cache
+/home/moi/Projects/GestionEquipeFootball/GestionEquipeFootball/obj/x86/Debug/GestionEquipeFootball.exe
+/home/moi/Projects/GestionEquipeFootball/GestionEquipeFootball/obj/x86/Debug/GestionEquipeFootball.pdb
